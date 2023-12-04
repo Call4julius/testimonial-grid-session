@@ -115,7 +115,7 @@ body {
   font-size: var(--fs-primary);
   font-weight: var(--fw-500);
   background-color: hsl(var(--clr-neutral-100));
-  padding: calc(var(--spacer-5) * 2) var(--spacer-3);
+  padding: calc(var(--spacer-5) * 1) var(--spacer-3);
 }
 
 .main,
