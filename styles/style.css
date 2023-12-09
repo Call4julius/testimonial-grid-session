@@ -118,6 +118,10 @@ body {
   place-content: center;
 }
 
+.main {
+  padding: var(--spacer-2)
+}
+
 .main,
 .testimonial,
 .card {
